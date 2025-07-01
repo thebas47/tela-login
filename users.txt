@@ -1,0 +1,2 @@
+﻿email@example.com;senha123;João da Silva;2025-06-12
+thebas@gmail.com;123;igor thebas;2025-06-12
